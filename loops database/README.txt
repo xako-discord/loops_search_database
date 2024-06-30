@@ -1,0 +1,1 @@
+To make searches faster, please add your database to "database.txt"
